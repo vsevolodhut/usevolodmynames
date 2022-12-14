@@ -4,7 +4,7 @@ import asyncio
 from aiogram import Bot, Dispatcher, types, executor
 
 
-token = '5706561932:AAFIw7hXoGsY5kgV8CIVOaS2V2m3ye2edmY'
+token = 'YOU TELEGRAM TOKEN'
 bot = Bot(token=token)
 dp = Dispatcher(bot=bot)
 
